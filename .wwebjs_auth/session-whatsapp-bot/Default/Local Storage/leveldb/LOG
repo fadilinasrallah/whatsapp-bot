@@ -1,0 +1,6 @@
+2025/04/05-02:39:50.133 42a0 Reusing MANIFEST C:\xampp\htdocs\test\main\.wwebjs_auth\session-whatsapp-bot\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/05-02:39:50.135 42a0 Recovering log #6
+2025/04/05-02:39:50.136 42a0 Reusing old log C:\xampp\htdocs\test\main\.wwebjs_auth\session-whatsapp-bot\Default\Local Storage\leveldb/000006.log 
+2025/04/05-02:41:54.260 313c Level-0 table #10: started
+2025/04/05-02:41:54.270 313c Level-0 table #10: 15122 bytes OK
+2025/04/05-02:41:54.279 313c Delete type=0 #6
